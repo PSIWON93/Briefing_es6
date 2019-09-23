@@ -20,6 +20,7 @@ function askForName(){
     form.addEventListener("submit", handleSubmit);
 }
 
+
 function paintGreeting(text){
     form.classList.remove(SHOWING_CN);
     greeting.classList.add(SHOWING_CN);
