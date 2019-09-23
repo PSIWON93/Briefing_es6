@@ -1,10 +1,12 @@
-##Briefing
+## Briefing
 
 A clone of the productivity chrome app Momentum on Vanilla JS
 
-###Features
-- [x]Clock
-- [x]To Do List
-- [x]Weather
-- [x]Daily Photo
-- [x]Offline Support
+
+
+### Features
+- Clock
+- To Do List
+- Weather
+- Daily Photo
+- Offline Support
